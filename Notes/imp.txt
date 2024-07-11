@@ -1,0 +1,4 @@
+first build : go build 01_Hello_world/main.go
+second execute: ./main
+
+another way to direct run without build: go run fileName.go
